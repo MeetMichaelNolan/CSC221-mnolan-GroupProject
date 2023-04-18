@@ -1,4 +1,4 @@
-# CSC221-mnolan-janderson-GroupProject
+# CSC221-mnolan-GroupProject
 Group Project for CSC221 2023 Sp
 
 __Owner:__ Michael Nolan (mhnolan02@gmail.com) (mhnolan@my.waketech.edu) 

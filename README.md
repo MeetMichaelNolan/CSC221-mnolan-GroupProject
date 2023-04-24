@@ -7,4 +7,4 @@ __Project Description:__  The goal of this project is to scrape data from the 20
 
 __Webscraped URL:__ 2023 Major League Baseball Season Standings (https://en.wikipedia.org/wiki/2023_Major_League_Baseball_season)
 
-__Collaborator:__ Jeremy Anderson (jnanderson7@my.waketech.edu) 
+__Collaborator:__ Jeremy Anderson (jnanderson7@my.waketech.edu) ACCEPTED
